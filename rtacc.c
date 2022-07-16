@@ -1,3 +1,4 @@
+/* Copyright 2022 Keita Morisaki */
 #include <stdio.h>
 #include <stdlib.h>
 
